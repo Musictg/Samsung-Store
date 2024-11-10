@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    font-family: "Anton", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: capitalize;
+    color: white;
+}
+.container{
+    background-color: #181818;
+    border-radius: 20px;
+}
+h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+label{
+    font-size: xx-large;
+    font-weight: 700;
+}
+table{
+    font-size: large;
+    font-weight: 600;
+}
+p{
+    color: black;
+}
+
